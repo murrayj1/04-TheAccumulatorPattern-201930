@@ -123,9 +123,6 @@ def sum_more_cosines(m, n):
     return(y)
 
 
-
-
-
 def run_test_count_sines_from():
     """ Tests the   count_sines_from   function. """
     # -------------------------------------------------------------------------
